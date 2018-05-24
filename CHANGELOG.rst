@@ -2,6 +2,57 @@
 CHANGELOG
 =========
 
+1.15.26
+=======
+
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``inspector``: Update inspector command to latest version
+
+
+1.15.25
+=======
+
+* api-change:``cloudformation``: Update cloudformation command to latest version
+
+
+1.15.24
+=======
+
+* api-change:``iot``: Update iot command to latest version
+* api-change:``ses``: Update ses command to latest version
+
+
+1.15.23
+=======
+
+* api-change:``codedeploy``: Update codedeploy command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``cognito-idp``: Update cognito-idp command to latest version
+
+
+1.15.22
+=======
+
+* api-change:``servicecatalog``: Update servicecatalog command to latest version
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+
+
+1.15.21
+=======
+
+* api-change:``config``: Update config command to latest version
+
+
+1.15.20
+=======
+
+* api-change:``organizations``: Update organizations command to latest version
+* enhancement:colorama: Increased the upper bound on the colorama dependency to 0.3.9.
+* api-change:``iot1click-devices``: Update iot1click-devices command to latest version
+* api-change:``codebuild``: Update codebuild command to latest version
+* api-change:``iot1click-projects``: Update iot1click-projects command to latest version
+
+
 1.15.19
 =======
 
